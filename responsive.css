@@ -1,0 +1,253 @@
+@media all and (max-width: 1400px){
+	
+	.left-side{
+		width:133%;
+	}
+	
+}
+
+
+
+@media all and (max-width: 1300px){
+	
+	.left-side{
+		width:135%;
+	}
+	
+}
+
+@media all and (max-width: 1200px){
+	
+	.left-side{
+		width:165%;
+	}
+	.middle-side{
+		left:130%;
+		width:160%;
+	}
+	
+	.right-side{
+		width:490%;
+		left:290%;
+	}
+	
+}
+
+
+
+
+
+
+
+@media all and (max-width: 1050px){
+	
+	.left-side{
+		width: 170%;
+	}
+	.middle-side{
+		width:170%;
+	}
+	
+	.right-side{
+		left:300%;
+	}
+	
+}
+
+
+@media all and (max-width: 1000px){
+	
+.tab__header > div {
+
+  margin-bottom:5px;
+	font-size:12px;
+
+}
+
+
+	.left-side{
+		height:500px;
+	}
+	.middle-side{
+		height:500px;
+	}
+	
+	.right-side{
+		height:500px;
+	}
+	
+}
+
+@media all and (max-width: 900px){
+	
+
+
+
+	.left-side{
+		width:177%;
+	}
+	
+	
+}
+
+
+@media all and (max-width: 800px){
+	
+
+
+
+	.left-side{
+		width:190%;
+	}
+	
+	
+}
+
+
+@media all and (max-width: 700px){
+	
+	.middle-side{
+		width:200%;
+		left:145%;
+	}
+
+
+	.left-side{
+		width:215%;
+	}
+	
+		.right-side{
+		width:465%;
+		left:345%;
+	}
+	
+	.left-side {
+ 
+    padding: 0px 0px 0px 0px;
+}
+		.middle-side {
+ 
+    padding: 0px 0px 0px 0px;
+}
+	
+	
+	
+}
+
+@media all and (max-width: 600px){
+	
+	.middle-side{
+    width: 205%;
+    left: 140%;
+	}
+
+	.left-side{
+		width:220%;
+	}
+	
+	
+	
+		.right-side{
+		width:470%;
+		
+	}
+	
+	.tab__header > div {
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+	
+	
+	
+}
+
+
+
+
+@media all and (max-width: 550px){
+
+.middle-side {
+    width: 215%;
+    left: 130%;
+}
+
+.right-side {
+    width: 487%;
+}
+
+}
+
+
+
+
+@media all and (max-width: 500px){
+.tab__header > div {
+    margin-bottom: 5px;
+    font-size: 8px;
+}
+
+
+
+.middle-side {
+    width: 233%;
+    left: 111%;
+}
+
+}
+
+@media all and (max-width: 410px){
+	.left-side {
+    width: 251%;
+}
+
+
+
+}
+
+
+
+@media all and (max-width: 400px){
+
+.right-side {
+    z-index: -1;
+    width: 1000%;
+    left: -50px;
+   
+}
+
+.left-side {
+    width: 472%;
+}
+
+
+.middle-side {
+    width: 470%;
+    left: 330%;
+}
+
+.clrightside{
+	display:block;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
