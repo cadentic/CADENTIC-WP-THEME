@@ -40,9 +40,13 @@ wp_footer();
 		  
 		  </div>
 		  
+    <!--   <script type="text/javascript" src="<?php echo THEME_JS_PATH; ?>/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="<?php echo THEME_JS_PATH; ?>/jquery-multitabs.js"></script>
+		<script type="text/javascript" src="<?php echo THEME_JS_PATH; ?>/bootstrap.min.js"></script>
+		<script type="text/javascript" src="<?php echo THEME_JS_PATH; ?>/wow.min.js"></script>
+		<script type="text/javascript" src="<?php echo THEME_JS_PATH; ?>/owl.carousel.min.js"></script>		  
 		  
-		  
-			
+			!--> 
 		
 	<script>
 

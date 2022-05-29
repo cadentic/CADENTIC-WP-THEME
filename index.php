@@ -7,13 +7,13 @@
 	
 			<div class="owl-carousel owl-theme banner_slide">
 			
-			<div class="itm"><img src="images/5042_banner_1.jpg" alt="" /> 
+			<div class="itm"><img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_1.jpg" alt="" /> 
 				<div class="h1pox" style="position:absolute;left:100px;top:50px;color:#fff" >
 				<h1 style="margin-left:15px;">Zero-downtime migration using golden gate</h1>
-				<img src="images/Untitled-1.png" alt="" />
+				<img src="<?php echo THEME_IMG_PATH; ?>/Untitled-1.png" alt="" />
 				</div>
 			</div>
-			<div class="itm"><img src="images/5042_banner_2.jpg" alt="" />
+			<div class="itm"><img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_2.jpg" alt="" />
 			<div class="h1pox" style="padding:10px 30px;position:absolute;left:100px;top:80px;color:#fff" >
 				<h1>On-premise to cloud migration</h1>
 				<a href="">Visit For More Info</a> 
@@ -44,7 +44,7 @@
 			</div>
 			<div class="itm"><img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_5.jpg" alt="" />
 			<div class="h1pox" style="padding:10px 30px;position:absolute;right:100px;top:50px;color:#fff" >
-			<img style="width:70%; margin:auto;" src="images/Untitled-1.png" alt="" />
+			<img style="width:70%; margin:auto;" src="<?php echo THEME_IMG_PATH; ?>/Untitled-1.png" alt="" />
 				<h1 style="width:600px; font-size:34px; text-align:center; margin-top:0px; margin-left:15px;">IBM business Partners AWS Architect <br /> Oracle Sliver Partners </h1>
 				
 				
@@ -417,7 +417,7 @@
 						   </div>
 						   <div class="blog-container" data-hash="second">
 						   <i class="fa fa-times"></i>
-						   <div class="banner-bl-slide"><div id="myCarousel6" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel6" data-slide-to="0" class="active"></li><li data-target="#myCarousel6" data-slide-to="1"></li><li data-target="#myCarousel6" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="images/banner1.jpg"></div><div class="item"> <img src="images/banner2.jpg"></div><div class="item"> <img src="images/banner3.jpg"></div><div class="item"> <img src="images/banner4.jpg"></div><div class="item"> <img src="images/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel6" data-slide="prev"> </a> <a class="right carousel-control" href="#myCarousel6" data-slide="next"></a></div></div>
+						   <div class="banner-bl-slide"><div id="myCarousel6" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel6" data-slide-to="0" class="active"></li><li data-target="#myCarousel6" data-slide-to="1"></li><li data-target="#myCarousel6" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="<?php echo THEME_IMG_PATH; ?>/banner1.jpg"></div><div class="item"> <img src="images/banner2.jpg"></div><div class="item"> <img src="images/banner3.jpg"></div><div class="item"> <img src="images/banner4.jpg"></div><div class="item"> <img src="images/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel6" data-slide="prev"> </a> <a class="right carousel-control" href="#myCarousel6" data-slide="next"></a></div></div>
 						  
 						   <div class="cont">
 						   <h2>Hello world</h2>
@@ -499,7 +499,7 @@
 						   <div class="blog-container" data-hash="sixeth">
 						   <i class="fa fa-times"></i>
 						  
-							<div class="banner-bl-slide"> <div id="myCarousel10" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel10" data-slide-to="0" class="active"></li><li data-target="#myCarousel10" data-slide-to="1"></li><li data-target="#myCarousel10" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="images/banner1.jpg"></div><div class="item"> <img src="images/banner2.jpg"></div><div class="item"> <img src="images/banner3.jpg"></div><div class="item"> <img src="images/banner4.jpg"></div><div class="item"> <img src="images/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel10" data-slide="prev"></a> <a class="right carousel-control" href="#myCarousel10" data-slide="next"></a></div>
+							<div class="banner-bl-slide"> <div id="myCarousel10" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel10" data-slide-to="0" class="active"></li><li data-target="#myCarousel10" data-slide-to="1"></li><li data-target="#myCarousel10" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="<?php echo THEME_IMG_PATH; ?>/banner1.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner2.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner3.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner4.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel10" data-slide="prev"></a> <a class="right carousel-control" href="#myCarousel10" data-slide="next"></a></div>
 						  </div>
 						   <div class="cont">
 						   <h2>Hello world</h2>
@@ -519,7 +519,7 @@
 						   </div>
 						   <div class="blog-container" data-hash="seventh"><i class="fa fa-times"></i>
 						  						  
-							<div class="banner-bl-slide"> <div id="myCarousel11" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel11" data-slide-to="0" class="active"></li><li data-target="#myCarousel11" data-slide-to="1"></li><li data-target="#myCarousel11" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="images/banner1.jpg"></div><div class="item"> <img src="images/banner2.jpg"></div><div class="item"> <img src="images/banner3.jpg"></div><div class="item"> <img src="images/banner4.jpg"></div><div class="item"> <img src="images/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel11" data-slide="prev"></a> <a class="right carousel-control" href="#myCarousel11" data-slide="next"></a></div>
+							<div class="banner-bl-slide"> <div id="myCarousel11" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel11" data-slide-to="0" class="active"></li><li data-target="#myCarousel11" data-slide-to="1"></li><li data-target="#myCarousel11" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="<?php echo THEME_IMG_PATH; ?>/banner1.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner2.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner3.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner4.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel11" data-slide="prev"></a> <a class="right carousel-control" href="#myCarousel11" data-slide="next"></a></div>
 						  </div>
 						   <div class="cont">
 						   <h2>Hello world</h2>
@@ -537,7 +537,7 @@
 						   <img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_2.jpg'" alt="" />
 						   </div></div>
 						   <div class="blog-container" data-hash="eight"><i class="fa fa-times"></i>
-						    <div class="banner-bl-slide"><div id="myCarousel12" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel12" data-slide-to="0" class="active"></li><li data-target="#myCarousel12" data-slide-to="1"></li><li data-target="#myCarousel12" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="images/banner1.jpg"></div><div class="item"> <img src="images/banner2.jpg"></div><div class="item"> <img src="images/banner3.jpg"></div><div class="item"> <img src="images/banner4.jpg"></div><div class="item"> <img src="images/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel12" data-slide="prev"></a> <a class="right carousel-control" href="#myCarousel12" data-slide="next"></a></div>
+						    <div class="banner-bl-slide"><div id="myCarousel12" class="carousel slide" data-ride="carousel"> <!-- Indicators --> <ol class="carousel-indicators"><li data-target="#myCarousel12" data-slide-to="0" class="active"></li><li data-target="#myCarousel12" data-slide-to="1"></li><li data-target="#myCarousel12" data-slide-to="2"></li><li data-target="#myCarousel12" data-slide-to="3"></li><li data-target="#myCarousel12" data-slide-to="4"></li> </ol> <!-- Wrapper for slides --> <div class="carousel-inner"><div class="item active"> <img src="<?php echo THEME_IMG_PATH; ?>/banner1.jpg"></div><div class="item"> <img src="images/banner2.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner3.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner4.jpg"></div><div class="item"> <img src="<?php echo THEME_IMG_PATH; ?>/banner5.jpg"></div> </div> <!-- Left and right controls --> <a class="left carousel-control" href="#myCarousel12" data-slide="prev"></a> <a class="right carousel-control" href="#myCarousel12" data-slide="next"></a></div>
 						  </div>
 
 						   <div class="cont">

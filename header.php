@@ -1,5 +1,28 @@
 <?php wp_head();
 ?>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="author" content="CADENTIC®">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta charset="UTF-8">
+		
+		
+		
+		<title>Welcome to Cadentic</title>
+		<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Josefin+Sans:100i,300,400,700|Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/animate.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/owl.theme.default.min.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/owl.carousel.min.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/bootstrap.min.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/bootstrap-theme.min.css" media="all" />
+		<link href="<?php echo THEME_CSS_PATH; ?>/jquery-multitabs.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/font-awesome.min.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_MAIN_CSS_PATH; ?>/style.css" media="all" /> 
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/main.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_MAIN_CSS_PATH; ?>/responsive.css" media="all" />
+
 
 <body>
 	
@@ -1477,7 +1500,7 @@
             </div>
             <div class="tab__content right-side-horizon">
                <div class="tab__content-1 tab__content--active">
-                  <img src=""<?php echo THEME_IMG_PATH; ?>/hz1.jpg" alt="" /> 
+                  <img src="<?php echo THEME_IMG_PATH; ?>/hz1.jpg" alt="" /> 
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
                   <a href="">Read More</a> 
                </div>
