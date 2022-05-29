@@ -22,6 +22,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo THEME_MAIN_CSS_PATH; ?>/style.css" media="all" /> 
 		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/main.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="<?php echo THEME_MAIN_CSS_PATH; ?>/responsive.css" media="all" />
+		
 
 
 <body>

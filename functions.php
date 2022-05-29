@@ -28,7 +28,7 @@ function cadentic_files () {
     
 
     wp_enqueue_style('cadentic_responsive_css_styles',get_theme_file_uri('responsive.css', '1.0'), false);
-    */ 
+    
     wp_enqueue_style( 'bootstrap', 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css', false);
     
     wp_enqueue_script( 'owl-js', 'https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js',array('jquery'), time(), true );
@@ -40,7 +40,7 @@ function cadentic_files () {
   // wp_register_script('popper', 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js', array('jquery'), '1.12.9', true);
    // wp_enqueue_script('popper');
     
-    
+    */
   
 
 
