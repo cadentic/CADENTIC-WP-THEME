@@ -5,7 +5,7 @@ while(have_posts()){
 the_post();  ?>
 
 	
-		<section id="topextsec">
+	<!-- 	<section id="topextsec">
 		
 			<div class="leftext col-lg-4 col-md-4 col-sm-4">
 					 <div class="imgext1">
@@ -219,7 +219,7 @@ the_post();  ?>
 			<div class="itm"><img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_1.jpg" alt="" /> 
 				<div class="h1pox" style="position:absolute;left:100px;top:80px;color:#fff" >
 				<h1 style="margin-left:15px;">Zero-downtime migration using golden gate</h1>
-				<img src="images/Untitled-1.png" alt="" />
+				<img src="<?php echo THEME_IMG_PATH; ?>/Untitled-1.png" alt="" />
 				</div>
 			</div>
 			<div class="itm"><img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_2.jpg" alt="" />
@@ -240,7 +240,7 @@ the_post();  ?>
 			</div>
 			
 			</div>
-			<div class="itm"><img src="im<?php echo THEME_IMG_PATH; ?>/5042_banner_4.jpg" alt="" />
+			<div class="itm"><img src="<?php echo THEME_IMG_PATH; ?>/5042_banner_4.jpg" alt="" />
 			<div class="h1pox" style="padding:10px 30px;position:absolute;right:100px;top:80px;color:#fff" >
 				<h1 style="width:600px">Upgradstion and Migration of different database</h1>
 				<a href="" style="background:#4893BB;color:#fff; border:2px solid #000; font-size:30px;">Migration Methodology</a> 
