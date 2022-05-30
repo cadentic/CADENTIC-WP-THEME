@@ -8,7 +8,7 @@
 		
 		
 		
-		<title>Welcome to Cadentic</title>
+		<title><?php echo the_title();?> </title>
 		<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Josefin+Sans:100i,300,400,700|Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -22,6 +22,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo THEME_MAIN_CSS_PATH; ?>/style.css" media="all" /> 
 		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/main.css" media="all" />
 		<link rel="stylesheet" type="text/css" href="<?php echo THEME_MAIN_CSS_PATH; ?>/responsive.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="<?php echo THEME_CSS_PATH; ?>/Crafted.css" media="all" />
 		
 
 

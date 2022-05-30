@@ -60,6 +60,12 @@ function cadentic_files () {
        if( !defined('THEME_MAIN_CSS_PATH')){
 define( 'THEME_MAIN_CSS_PATH', get_stylesheet_directory_uri() );
 }
+
+      if( !defined('THEME_CRAFTED_PATH')){
+define( 'THEME_CRAFTED_PATH', get_stylesheet_directory_uri() . '/CraftedImages');
+}
+
+
   }
 
 add_action('wp_enqueue_scripts','cadentic_files');
